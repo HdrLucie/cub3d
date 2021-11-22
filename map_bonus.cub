@@ -1,0 +1,26 @@
+
+
+NO ./pictures/wall_texture.xpm
+WE ./pictures/simple_wall.xpm
+
+EA ./pictures/broken_wall.xpm
+SO ./pictures/stone_wall.xpm
+Z ./pictures/mummy.xpm
+T ./pictures/door.xpm         
+B ./pictures/heart.xpm
+I ./pictures/drugeffect.xpm      
+U ./pictures/opendoor.xpm
+
+F 144,100,25
+C 100,23,25
+
+1111111111111
+1000000000001
+1000000000001
+1111111311111
+1000000000001
+1020000004001
+10000N0000001
+1000000000001
+1000002000001
+1111111111111
