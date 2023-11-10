@@ -4,7 +4,7 @@ Go to [french version](#a-propos)
 
 ## About
 Cub3D was the fourth project I made. It's a raycasting game inspired by Wolfenstein 3D using minilibx. It was my first "big" project that combines mathematics, 3D-like and raycasting.
-To do cub3D we use [get_next_line]([github.com/HdrLucie/get_next_line](https://github.com/HdrLucie/get_next_line)). We have to parse a map-file, texture, implement sprites and textures, and player movements.
+To do cub3D we use [get_next_line](https://github.com/HdrLucie/get_next_line). We have to parse a map-file, texture, implement sprites and textures, and player movements.
 
 # Getting Started
 
@@ -35,7 +35,7 @@ Feel free to explore the source code to understand its detailed workings.
 
 ## A propos
 Cub3D est le quatrième projet que j'ai réalisé. Il s'agit d'un jeu en raycasting inspiré par Wolfenstein 3D qui utilise la minilibX. C'est mon premier "gros" projet qui combine mathématiques, 3D-like et raycasting. 
-Pour faire cub3D on utilise [get_next_line]([github.com/HdrLucie/get_next_line](https://github.com/HdrLucie/get_next_line)). On doit parser un fichier avec des données comme la map, les textures... implémenter des sprites, des textures et les déplacements du joueur.
+Pour faire cub3D on utilise [get_next_line](https://github.com/HdrLucie/get_next_line). On doit parser un fichier avec des données comme la map, les textures... implémenter des sprites, des textures et les déplacements du joueur.
 
 # Pour commencer
 
